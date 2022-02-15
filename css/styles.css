@@ -5,7 +5,11 @@ body
   background-color: #FBF8F1;
 }
 
-
+h2
+{
+  font-family: 'Oooh Baby', cursive;
+  text-align: center;
+}
 
 
 .overtop
@@ -20,13 +24,32 @@ body
   background-color: #F7ECDE;
 }
 
+.NavLabel
+{
+  width: 90%;
+
+}
+
+.navbar-brand
+{
+  padding:0 0 0 2rem;
+  font-family: 'Oooh Baby', cursive;
+  font-size: 24px;
+  font-weight: 700;
+}
 
 .nav-item
 {
-  padding: 0 2rem 0 2rem;
+  padding: 0 1rem 0 1rem;
+  font-family: 'Oooh Baby', cursive;
+  font-size: 24px;
+  font-weight: 700;
 }
 
-
+.Rollenbg
+{
+  width: 100%;
+}
 
 
 .middle
@@ -35,10 +58,14 @@ body
 
 }
 
+.firstrow
+{
+  padding-top: 3rem;
+}
+
 .Label
 {
   display:block;
-  margin-top: 3rem;
   margin-left: auto;
   margin-right: auto;
   width: 70%;
@@ -52,4 +79,19 @@ body
   height: 5rem;
   text-align: center;
 
+}
+
+.under
+{
+  text-align: center;
+}
+
+.btn-outline-secondary
+{
+  font-family: 'Architects Daughter', cursive;
+}
+
+.HoldPic
+{
+  padding-top: 3rem;
 }
